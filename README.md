@@ -55,7 +55,7 @@ typedef struct registro {
 
 <br/>
 
-##### Algoritmos de ordenação implementado
+##### Algoritmos de ordenação implementados
 
 - [x] Quick sort
 - [x] Merge Sort
@@ -66,10 +66,11 @@ typedef struct registro {
 
 <br/>
 
-##### Algortimos de busca implementado
+##### Algortimos de busca implementados
 
 - [x] Busca binára
 
 <br/>
 
->Projeto realizado no curso Programação Web I e entregue como trabalho final da matéria. 
+>Projeto realizado no curso Algoritmos e Programação II e entregue como trabalho final da matéria. 
+
