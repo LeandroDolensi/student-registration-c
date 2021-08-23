@@ -2,6 +2,8 @@
 
 <br/>
 
+---
+
 
 
 ##### Uma aplicação para Cadastro de Alunos que armazena informações sobre:
@@ -9,6 +11,10 @@
 * Alunos
 
 <br/>
+
+---
+
+
 
 ##### Estrutura de dados:
 
@@ -35,6 +41,10 @@ typedef struct registro {
 
 <br/>
 
+---
+
+
+
 ##### Interface gráfica:
 
 1. Cadastrar Aluno
@@ -44,6 +54,10 @@ typedef struct registro {
 5. Sair
 
 <br/>
+
+---
+
+
 
 ##### Cada Submenu oferece as opções: 
 
@@ -55,6 +69,10 @@ typedef struct registro {
 
 <br/>
 
+---
+
+
+
 ##### Algoritmos de ordenação implementados
 
 - [x] Quick sort
@@ -62,15 +80,21 @@ typedef struct registro {
 - [x] Insertion Sort
 - [x] Selection Sort
 
+<br/>
+
 ---
 
-<br/>
+
 
 ##### Algortimos de busca implementados
 
 - [x] Busca binára
 
 <br/>
+
+---
+
+
 
 >Projeto realizado no curso Algoritmos e Programação II e entregue como trabalho final da matéria. 
 
